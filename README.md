@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saad Khan
+- 👀 I’m interested in developing mobile, hybrid and web Apps
+- 🌱 I’m currently learning advanced tools and techniques to enance productivity
+- 💞️ I’m looking to collaborate on VR/AR and AI projects
+- 📫 You can reach me at saadmk.itpro@gmail.com
